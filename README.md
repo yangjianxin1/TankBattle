@@ -33,7 +33,7 @@
 
 玩家对战模式：
  
- ![map3](image/pvp.png)
+ ![pvp](image/pvp.png)
 
 ## 使用方式
 本项目使用maven构建，原则上不需要用户自行下载各种jar包，但是在pom.xml中添加jboss-marshalling-serial-1.3.0.CR9.jar
