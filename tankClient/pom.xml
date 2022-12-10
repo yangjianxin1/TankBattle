@@ -14,7 +14,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.encoding>UTF-8</maven.compiler.encoding>
 		<!-- springframe 版本控制 -->
-		<spring.version>4.3.17</spring.version>
+		<spring.version>6.0.0</spring.version>
 	</properties>
 
 	<dependencies>
